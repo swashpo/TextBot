@@ -1,13 +1,6 @@
-/* *****************************************************************************
- *  Name:    Richard Ma
- *  NetID:   rm44
- *  Precept: P03
- *
- *
- *  Description: Generates a Markov model and includes methods for accessing and
- *  manipulating Markov models.
- *
- **************************************************************************** */
+// Description: Generates a Markov model and includes methods for accessing and
+// manipulating Markov models.
+ 
 
 public class MarkovModel {
 
