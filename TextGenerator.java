@@ -1,12 +1,5 @@
-/* *****************************************************************************
- *  Name:    Richard Ma
- *  NetID:   rm44
- *  Precept: P03
- *
- *
- *  Description: Uses MarkovModel to generate predictive text.
- *
- **************************************************************************** */
+// Description: Uses MarkovModel to generate predictive text.
+
 
 public class TextGenerator {
     public static void main(String[] args) {
